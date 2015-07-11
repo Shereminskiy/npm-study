@@ -1,0 +1,22 @@
+{
+  "name": "howtonpm",
+  "version": "1.0.0",
+  "description": "This is study project by learning of NPM",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository" : {
+      "type": "git",
+      "url": "git://github.com/Shereminskiy/npm-study.git"
+  },
+  "keywords": [
+    "npm",
+    "learning"
+  ],
+  "dependencies": {
+    "@linclark/pkg": "~1.0.0"
+  },
+  "author": "Alexander Shereminskiy",
+  "license": "ISC"
+}

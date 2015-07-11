@@ -1,0 +1,1 @@
+This is test project where I''m learning how to work with npm.
